@@ -1,0 +1,9 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/it/Chip_Design/CommonCore/DigitalDesign/lab1/Task2Task3/Task2Task3.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/home/it/Chip_Design/CommonCore/DigitalDesign/lab1/Task2Task3/Task2Task3.srcs/sources_1/new/FullAdder.sv,1731348356,systemVerilog,,/home/it/Chip_Design/CommonCore/DigitalDesign/lab1/Task2Task3/Task2Task3.srcs/sources_1/new/HalfAdder.sv,,FullAdder,,,,,,,,
+/home/it/Chip_Design/CommonCore/DigitalDesign/lab1/Task2Task3/Task2Task3.srcs/sources_1/new/HalfAdder.sv,1731348351,systemVerilog,,/home/it/Chip_Design/CommonCore/DigitalDesign/lab1/Task2Task3/Task2Task3.srcs/sources_1/new/tb_FullAdder.sv,,HalfAdder,,,,,,,,
+/home/it/Chip_Design/CommonCore/DigitalDesign/lab1/Task2Task3/Task2Task3.srcs/sources_1/new/tb_FullAdder.sv,1731348356,systemVerilog,,,,tb_FullAdder,,,,,,,,
+/home/it/Chip_Design/CommonCore/DigitalDesign/lab1/Task2Task3/Task2Task3.srcs/sources_1/new/tb_HalfAdder.sv,1731348351,systemVerilog,,,,tb_HalfAdder,,,,,,,,
